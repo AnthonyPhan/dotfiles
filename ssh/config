@@ -1,11 +1,9 @@
 Host github.com
   HostName github.com
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentityFile ~/.ssh/github.com
+  User anthonyphanco-user
+  IdentityFile ~/.ssh/id_anthony
 
-Host work.github.com
+Host fugro.github.com
   HostName github.com
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentityFile ~/.ssh/work.github.com
+  User aphanfugro-user
+  IdentityFile ~/.ssh/id_fugro
