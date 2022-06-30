@@ -12,7 +12,7 @@
     ~/dev:
 
 - link:
-    # ~/.aliases: terminal/aliases
+    ~/.aliases: terminal/aliases
     ~/.gitconfig: git/config
     ~/.config/starship.toml: terminal/starship.toml
     # ~/.functions: terminal/functions

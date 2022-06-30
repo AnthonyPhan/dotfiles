@@ -1,9 +1,7 @@
 Host github.com
   HostName github.com
-  User anthonyphanco-user
   IdentityFile ~/.ssh/id_anthony
 
 Host fugro.github.com
   HostName github.com
-  User aphanfugro-user
   IdentityFile ~/.ssh/id_fugro
