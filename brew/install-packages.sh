@@ -10,6 +10,7 @@ brew install --cask rectangle
 brew install --cask drawio
 brew install --cask kap
 brew install --cask microsoft-teams
+brew install --cask notion
 
 # Terminal
 brew install starship
