@@ -25,7 +25,7 @@ brew install shellcheck
 # Dev
 #brew install rustup-init; rustup-init -y
 brew install fnm
-brew install docker
+brew install --cask docker
 brew install docker-compose                        # Faster version of npm
 
 # Virtualization
