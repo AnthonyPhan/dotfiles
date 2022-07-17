@@ -13,6 +13,7 @@
   "editor.rulers": [100],
   "editor.stickyTabStops": true,
   "editor.suggest.preview": true,
+  "editor.fontSize": 16,
   "evenBetterToml.formatter.alignComments": false,
   "extensions.ignoreRecommendations": true,
   "files.autoSave": "afterDelay",
@@ -38,5 +39,6 @@
   },
   "editor.accessibilitySupport": "off",
   "rust-analyzer.checkOnSave.command": "clippy",
-  "git.autofetch": true
+  "git.autofetch": true,
+  "editor.fontSize": 16
 }
