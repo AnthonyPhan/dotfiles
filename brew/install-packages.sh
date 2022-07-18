@@ -25,12 +25,13 @@ brew install shellcheck
 # Dev
 #brew install rustup-init; rustup-init -y
 brew install fnm
-brew install --cask docker
-brew install docker-compose                        # Faster version of npm
+brew install --cask ngrok                   # Faster version of npm
 
 # Virtualization
 # brew install podman
-# brew install --cask xquartz                 # Macos X11 for X11 port forwarding
+# brew install --cask xquartz
+brew install --cask docker
+brew install docker-compose               # Macos X11 for X11 port forwarding
 
 # Cloud
 brew install awscli
