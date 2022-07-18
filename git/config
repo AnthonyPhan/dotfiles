@@ -1,2 +1,4 @@
 [user]
 	name = anthony
+[pull]
+	rebase = false
