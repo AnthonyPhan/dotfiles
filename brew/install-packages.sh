@@ -39,7 +39,8 @@ brew install awscli
 brew install azure-cli
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
-
+brew tap azure/functions
+brew install azure-functions-core-tools@4
 
 # Fonts
 brew tap homebrew/cask-fonts
