@@ -40,5 +40,6 @@
   "editor.accessibilitySupport": "off",
   "rust-analyzer.checkOnSave.command": "clippy",
   "git.autofetch": true,
-  "editor.fontSize": 16
+  "editor.fontSize": 16,
+  "git.confirmSync": false
 }
