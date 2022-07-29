@@ -13,6 +13,7 @@ brew install --cask microsoft-teams
 brew install --cask notion
 brew install --cask messenger
 brew install --cask spotify
+brew install --cask gimp
 
 # Terminal
 brew install starship
@@ -21,6 +22,7 @@ brew install direnv
 brew install zsh-autosuggestions
 brew install zsh-syntax-highlighting
 brew install shellcheck
+brew install --cask azure-data-studio
 #brew install git-town
 
 # Dev
@@ -31,8 +33,8 @@ brew install --cask ngrok                   # Faster version of npm
 # Virtualization
 # brew install podman
 # brew install --cask xquartz
-# brew install --cask docker
-# brew install docker-compose               # Macos X11 for X11 port forwarding
+brew install --cask docker
+brew install docker-compose               # Macos X11 for X11 port forwarding
 
 # Cloud
 brew install awscli

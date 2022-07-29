@@ -16,7 +16,6 @@
   "editor.fontSize": 16,
   "evenBetterToml.formatter.alignComments": false,
   "extensions.ignoreRecommendations": true,
-  "files.autoSave": "afterDelay",
   "files.eol": "\n",
   "files.exclude": {
     "**/.DS_Store": true
@@ -41,5 +40,15 @@
   "rust-analyzer.checkOnSave.command": "clippy",
   "git.autofetch": true,
   "editor.fontSize": 16,
-  "git.confirmSync": false
+  "git.confirmSync": false,
+  "cSpell.userWords": [
+    "arudino",
+    "ngrok",
+    "rosserial",
+    "RTIO",
+    "teamsfx",
+    "vysor"
+  ],
+  "yaml.disableDefaultProperties": true,
+  "diffEditor.ignoreTrimWhitespace": false
 }
