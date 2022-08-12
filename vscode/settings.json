@@ -43,12 +43,20 @@
   "git.confirmSync": false,
   "cSpell.userWords": [
     "arudino",
+    "digitise",
+    "modernising",
     "ngrok",
+    "organisation",
+    "organisations",
     "rosserial",
     "RTIO",
     "teamsfx",
     "vysor"
   ],
   "yaml.disableDefaultProperties": true,
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "explorer.confirmDelete": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

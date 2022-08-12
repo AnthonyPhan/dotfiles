@@ -24,7 +24,7 @@ brew install zsh-autosuggestions
 brew install zsh-syntax-highlighting
 brew install shellcheck
 brew install --cask azure-data-studio
-#brew install git-town
+brew install git-town
 
 # Dev
 #brew install rustup-init; rustup-init -y
