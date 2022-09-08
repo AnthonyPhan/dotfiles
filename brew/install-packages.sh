@@ -30,6 +30,7 @@ brew install git-town
 #brew install rustup-init; rustup-init -y
 brew install fnm
 brew install --cask ngrok                   # Faster version of npm
+brew install --cask obsidian
 
 # Virtualization
 # brew install podman
