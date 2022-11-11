@@ -44,12 +44,19 @@
   "cSpell.userWords": [
     "arudino",
     "digitise",
+    "etag",
+    "formio",
     "modernising",
+    "mrms",
+    "msal",
     "ngrok",
+    "odata",
     "organisation",
     "organisations",
+    "powerbi",
     "rosserial",
     "RTIO",
+    "setFormioInitialised",
     "teamsfx",
     "vysor"
   ],
@@ -58,5 +65,17 @@
   "explorer.confirmDelete": false,
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "cSpell.ignoreWords": ["formiojs"],
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "azureLogicAppsStandard.projectLanguage": "JavaScript",
+  "remote.SSH.connectTimeout": 60
 }

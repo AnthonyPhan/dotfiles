@@ -15,6 +15,7 @@ brew install --cask messenger
 brew install --cask obsidian
 brew install --cask spotify
 brew install --cask gimp
+brew install rustup
 
 # Terminal
 brew install starship
@@ -41,6 +42,8 @@ brew install docker-compose               # Macos X11 for X11 port forwarding
 # Cloud
 brew install awscli
 brew install azure-cli
+brew tap azure/bicep
+brew install bicep
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 brew tap azure/functions
