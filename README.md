@@ -17,7 +17,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Install nix package manager
-sh <(curl -L https://nixos.org/nix/install)
+# sh <(curl -L https://nixos.org/nix/install)
 
 macos/preferences.sh
 brew/install-packages.sh
