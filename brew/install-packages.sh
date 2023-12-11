@@ -18,8 +18,8 @@ brew install --cask spotify
 # brew install rustup
 
 # Terminal
-# brew install starship
-# brew install --cask fig                     # Fig app needs to be run manually to finish setup
+brew install starship
+brew install --cask fig                     # Fig app needs to be run manually to finish setup
 # brew install direnv
 brew install zsh-autosuggestions
 brew install zsh-syntax-highlighting
