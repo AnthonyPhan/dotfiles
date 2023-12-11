@@ -7,6 +7,7 @@ brew update                                 # Update homebrew
 brew install --cask visual-studio-code
 brew install --cask google-chrome
 brew install --cask microsoft-edge
+brew install --cask microsoft-office
 # brew install --cask rectangle
 brew install --cask drawio
 # brew install --cask kap
