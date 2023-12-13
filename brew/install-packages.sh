@@ -18,6 +18,7 @@ brew install --cask messenger
 brew install --cask spotify
 brew install --cask shottr
 brew install --cask screen-studio
+brew install --cask android-studio
 # brew install --cask gimp
 # brew install rustup
 
