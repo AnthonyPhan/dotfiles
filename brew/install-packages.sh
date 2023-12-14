@@ -24,7 +24,7 @@ brew install --cask android-studio
 
 # Terminal
 brew install starship
-brew install --cask fig                     # Fig app needs to be run manually to finish setup
+# brew install --cask fig                     # Fig app needs to be run manually to finish setup
 # brew install direnv
 brew install zsh-autosuggestions
 brew install zsh-syntax-highlighting
