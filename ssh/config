@@ -1,11 +1,3 @@
-Host spaarcrobot
-  HostName spaarcrobot
-  User spaarc
-
 Host github.com
   HostName github.com
   IdentityFile ~/.ssh/id_anthony
-
-Host fugro.github.com
-  HostName github.com
-  IdentityFile ~/.ssh/id_fugro
