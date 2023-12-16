@@ -13,7 +13,7 @@ brew install --cask drawio
 # brew install --cask kap
 brew install --cask microsoft-teams
 brew install --cask notion
-brew install --cask messenger
+# brew install --cask messenger
 # brew install --cask obsidian
 brew install --cask spotify
 brew install --cask shottr
