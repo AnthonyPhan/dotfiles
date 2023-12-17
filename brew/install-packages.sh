@@ -20,6 +20,7 @@ brew install --cask shottr
 brew install --cask screen-studio
 brew install --cask android-studio
 brew install --cask gifox
+brew install --cask postman
 # brew install --cask gimp
 # brew install rustup
 
