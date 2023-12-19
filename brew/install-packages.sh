@@ -55,6 +55,7 @@ brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 brew tap azure/functions
 brew install azure-functions-core-tools@4
+brew install pnpm
 
 # Fonts
 # brew tap homebrew/cask-fonts
