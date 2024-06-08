@@ -22,6 +22,7 @@ brew install --cask android-studio
 brew install --cask gifox
 brew install --cask postman
 brew install --cask azure-data-studio
+brew install MonitorControl
 # brew install --cask gimp
 # brew install rustup
 
